@@ -1,17 +1,17 @@
 code : 1111
-Name : rizwan hamid
+Name : riz
 
 
 code : 1112
-Name : ali khan
+Name : ali
 
 
 code : 1113
-Name : rizwan ba
+Name : elli
 
 
 code : 6789
-Name : Ali Rizwan Khokar
+Name : kh
 
 
 Quiz Info : 
