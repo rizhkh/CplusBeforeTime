@@ -1,13 +1,13 @@
 code : 1
-Name : raza ali
+Name : raz
 
 Grade/Class : 1---
 code : 2
-Name : Ali khan
+Name : Al
 
 Grade/Class : 2---
 code : 3
-Name : Alii shah nawaz
+Name : elli
 
 Grade/Class : 3---
 code : 1
