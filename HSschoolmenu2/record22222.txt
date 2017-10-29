@@ -1,0 +1,106 @@
+code : 1111
+Name : rizwan hamid
+
+
+code : 1112
+Name : ali khan
+
+
+code : 1113
+Name : rizwan ba
+
+
+code : 6789
+Name : Ali Rizwan Khokar
+
+
+Quiz Info : 
+[QUIZ ADDED]
+subjects : 
+ Marks:1
+---
+ Marks:1
+---
+ Marks:1
+---
+ Marks:1
+---
+Quiz Info : 
+[QUIZ ADDED]
+subjects : 
+ Marks:1
+---
+Quiz Info : 
+[QUIZ ADDED]
+subjects : 
+ Marks:2
+---
+ Marks:1
+---
+ Marks:1
+---
+Quiz Info : 
+[QUIZ ADDED]
+subjects : 
+ Marks:1
+---
+ Marks:1
+---
+ Marks:1
+---
+ Marks:1
+---
+Quiz Info : 
+[QUIZ ADDED]
+subjects : english
+ Marks:99
+---
+code : 123124
+Name : asd
+
+
+code : 12432
+Name : sssssssssss
+
+
+code : 1
+Name : 1
+
+
+code : 1
+Name : 1
+
+
+Quiz Info : 
+[QUIZ ADDED]
+subjects : chemistry
+ Marks:33
+---
+ Marks:33
+---
+ Marks:22
+---
+ Marks:11
+---
+ Marks:11
+---
+code : 123
+Name : qwe
+
+
+code : 234
+Name : asd
+
+
+code : 1
+Name : 1
+
+
+code : 1
+Name : qew
+
+
+code : 2
+Name : rew
+
+
